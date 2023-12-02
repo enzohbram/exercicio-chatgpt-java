@@ -1,6 +1,6 @@
 package application;
 
-public class ExercicioCHATGPT {
+public class EnunciadoCHATGPT {
 
 	/**
 	 Exercício de Java Orientado a Objetos: Conta Bancária
@@ -28,5 +28,5 @@ public class ExercicioCHATGPT {
 
 	Lembre-se de usar modificadores de acesso apropriados para os atributos e 
 	métodos da classe ContaBancaria.
-	 **/
+	 */
 }
